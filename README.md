@@ -6,7 +6,9 @@ If the user copies some text that starts with 'bc1q' and the length of the text 
 
 ## How to compile
 Linux:
+
 x86_64-w64-mingw32-gcc -o ClipJack.exe ClipJack.c
 
 Windows:
+
 Simply use Code::Blocks or something else of your choice
